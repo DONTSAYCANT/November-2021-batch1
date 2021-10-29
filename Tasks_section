@@ -61,3 +61,22 @@ Difference between python2 and python3
 
 What is print function ? write program with print function (try with end sep parameters)
 
+October 29:
+
+Why input function always collects string data type from user ?
+
+inbuilt functions explain
+int
+float
+bool
+str
+
+
+convert int to float,str,bool
+convert float to int,bool,str
+convert bool to int float, str
+convert str to int float bool
+
+
+
+
